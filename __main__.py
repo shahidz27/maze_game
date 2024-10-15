@@ -46,7 +46,7 @@ def main() -> None:
 
     title_text = title_font.render("PyMaze", True, BLUE)
     copyright_text = normal_font.render(
-        "Copyright © 2022  Ptolemy Hill, Finlay Griffiths, and Tomas Reynolds",
+        "by najah shahid sonakshi vasu",
         True, BLUE
     )
     play_text = button_font.render("Play", True, WHITE)
